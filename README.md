@@ -1,2 +1,21 @@
 # coding_test_answer
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+BaekjoonHub를 이용해 자동 기록한 **프로그래머스 Level 0 Python 문제 풀이** 저장소입니다. 이름과 기존 설명에 Baekjoon이 적혀 있었지만, 현재 추적된 문제 61개는 모두 `프로그래머스/0/` 아래에 있습니다.
+
+## 저장소 구성
+
+```text
+프로그래머스/0/{문제번호. 문제명}/
+├── README.md   # 플랫폼이 제공한 문제 설명과 채점 정보
+└── {문제명}.py # 제출한 solution 함수
+```
+
+## 확인 범위
+
+- Python 풀이 61개의 문법 파싱을 확인했습니다.
+- 각 문제 README에는 제출 당시 온라인 채점 결과가 기록돼 있습니다.
+- 저장소 전체를 다시 실행하는 통합 테스트나 성능 비교 도구는 없습니다.
+
+## 포트폴리오에서의 역할
+
+알고리즘 기초 학습 기록을 보조하는 저장소입니다. 자동 생성된 문제 설명과 커밋이 대부분이므로 서비스형 대표 프로젝트보다 앞에 배치하지 않습니다.
